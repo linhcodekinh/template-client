@@ -7,6 +7,10 @@
     font-family: 'Nunito', sans-serif;
 }
 
+.form-sign-in-up {
+    text-align: center;
+}
+
 input,
 button {
     border: none;
